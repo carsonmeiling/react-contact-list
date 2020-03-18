@@ -3,9 +3,9 @@ import ContactsList from './components/contacts/ContactsList';
 
 class App extends Component {
   state = { contacts: [
-    { id: 1, firstName: 'Fred', phone: '8011231234' },
-    { id: 2, firstName: 'Owen', phone: '8011456234' },
-    { id: 3, firstName: 'Jack', phone: '8011889999' },
+    { id: 1, firstName: 'Fred', phone: '801-123-1234' },
+    { id: 2, firstName: 'Owen', phone: '801-145-6234' },
+    { id: 3, firstName: 'Jack', phone: '801-188-9999' },
   ]}
 
   render() {
